@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "GEN0-001",
+    "nom": "Aki Hyakawa",
+    "image": "images/GEN0-001.png",
+    "rarete": "R "
+  },
+  {
+    "id": "GEN0-002",
+    "nom": "Arthur Boyle",
+    "image": "images/GEN0-002.png",
+    "rarete": "R "
+  },
+  {
+    "id": "GEN0-003",
+    "nom": "Ban et Meliodas",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-004",
+    "nom": "Koro Sensei",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-005",
+    "nom": "Chrollo Lucifer",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-006",
+    "nom": "Zero Two",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-007",
+    "nom": "Devilman - Akira Fudô",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-008",
+    "nom": "Senku Ishigami",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-009",
+    "nom": "Zenitsu Agatsuma",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-010",
+    "nom": "Asuka Langley Sohryu",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-011",
+    "nom": "Famille Forger",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-012",
+    "nom": "Inosuke Hashibira",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-013",
+    "nom": "Kirito et Asuna",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-014",
+    "nom": "Livaï Ackerman",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-015",
+    "nom": "Power",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-016",
+    "nom": "Shinra Kusakabe",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-017",
+    "nom": "Sung Jinwoo",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-018",
+    "nom": "Spike Spiegel",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-019",
+    "nom": "Trafalgar D. Water Law",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-020",
+    "nom": "Asta",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-021",
+    "nom": "Sosuke Aizen",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-022",
+    "nom": "Light & Ryûk",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-023",
+    "nom": "Katsuki Bakugo",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-024",
+    "nom": "Denji",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-025",
+    "nom": "Frères Elric",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-026",
+    "nom": "Gon Freecss",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-027",
+    "nom": "Karasuno",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-028",
+    "nom": "Morow Hisoka",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-029",
+    "nom": "Jotaro Kujo",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-030",
+    "nom": "Ken Kaneki",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-031",
+    "nom": "Kirua Zoldik",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-032",
+    "nom": "Vorpal Swords",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-033",
+    "nom": "Minato Namikaze",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-034",
+    "nom": "Sasuke Uchiwa",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-035",
+    "nom": "Shoto Todoroki",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-036",
+    "nom": "Ryomen Sukuna",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-037",
+    "nom": "Natsu Dragnir",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-038",
+    "nom": "Izuku Midoriya",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-039",
+    "nom": "Dio Brando",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-040",
+    "nom": "Eren Yeager",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-041",
+    "nom": "Gojo Satoru",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-042",
+    "nom": "Son Goku",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-043",
+    "nom": "Ichigo Kurosaki",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-044",
+    "nom": "Monkey D Luffy",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-045",
+    "nom": "Madara Uchiwa",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-046",
+    "nom": "Nico Robin",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-047",
+    "nom": "Nami",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-048",
+    "nom": "Naruto Uzumaki",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-049",
+    "nom": "Tanjiro Kamado",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-050",
+    "nom": "Guts",
+    "image": "images/GEN0-050.png",
+    "rarete": "EX "
+  },
+  {
+    "id": "GEN0-051",
+    "nom": "Yoichi Isagi",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-052",
+    "nom": "Saitama",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-053",
+    "nom": "Thorfinn Karlsefni",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-054",
+    "nom": "Roronoa Zoro",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN0-055",
+    "nom": "Vegeta",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-001",
+    "nom": "Shinra Kusakabe",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-002",
+    "nom": "Arthur Boyle",
+    "image": "images/GEN1-002.png",
+    "rarete": "R"
+  },
+  {
+    "id": "GEN1-003",
+    "nom": "Koro Sensei",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-004",
+    "nom": "Asuna",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-005",
+    "nom": "Kirito",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-006",
+    "nom": "Senku Ishigami",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-007",
+    "nom": "Asuka Langley Soryu",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-008",
+    "nom": "Sung Jin-Woo",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-009",
+    "nom": "Famille Forger",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-010",
+    "nom": "Spike Spiegel",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-011",
+    "nom": "Ken Kaneki",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-012",
+    "nom": "Devilman - Akira Fudo",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-013",
+    "nom": "Edward & Alphonse",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-014",
+    "nom": "Ban et Meliodas",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-015",
+    "nom": "Light & Ryûk",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-016",
+    "nom": "Natsu Lucy Grey Happy",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-017",
+    "nom": "Ryomen Sukuna",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-018",
+    "nom": "Gojo Satoru",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-019",
+    "nom": "Livaï Ackerman",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-020",
+    "nom": "Eren Yeager",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-021",
+    "nom": "Inosuke Hashibira",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-022",
+    "nom": "Zenitsu Agatsuma",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-023",
+    "nom": "Tanjiro Kamado",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-024",
+    "nom": "Aki Hayakawa",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-025",
+    "nom": "Power",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-026",
+    "nom": "Denji",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-027",
+    "nom": "Minato Namikaze",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-028",
+    "nom": "Sasuke Uchiwa",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-029",
+    "nom": "Naruto Uzumaki",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-030",
+    "nom": "Madara Uchiwa",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-031",
+    "nom": "Kuroro Lucifer",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-032",
+    "nom": "Morow Hisoka",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-033",
+    "nom": "Gon Freecss",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-034",
+    "nom": "Kirua Zoldik",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-035",
+    "nom": "Aizen Sosuke",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-036",
+    "nom": "Ichigo Kurosaki",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-037",
+    "nom": "Dio Brando",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-038",
+    "nom": "Jotaro Kujo",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-039",
+    "nom": "Katsuki Bakugo",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-040",
+    "nom": "Shoto Todoroki",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-041",
+    "nom": "Izuku Midoriya",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-042",
+    "nom": "Trafalgar D Water Law",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-043",
+    "nom": "Nico Robin",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-044",
+    "nom": "Nami",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-045",
+    "nom": "Monkey D Luffy",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-046",
+    "nom": "Roronoa Zoro",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-047",
+    "nom": "Asta",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-048",
+    "nom": "Karasuno",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-049",
+    "nom": "Vorpal Swords",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-050",
+    "nom": "Guts",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-051",
+    "nom": "Thorfinn Karlsefni",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-052",
+    "nom": "Yoichi Isagi",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-053",
+    "nom": "Saitama",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-054",
+    "nom": "Son Goku",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1-055",
+    "nom": "Vegeta",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-001",
+    "nom": "Shinra",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-002",
+    "nom": "Arthur Boyle",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-003",
+    "nom": "Koro-Sensei",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-004",
+    "nom": "Asuna",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-005",
+    "nom": "Kirito",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-006",
+    "nom": "Senku",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-007",
+    "nom": "Asuka",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-008",
+    "nom": "Sung Jin-Woo",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-009",
+    "nom": "Famille Forger",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-010",
+    "nom": "Spike",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-011",
+    "nom": "Ken Kaneki",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-012",
+    "nom": "Devilman",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-013",
+    "nom": "Les frères Elric",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-014",
+    "nom": "Ban & Meliodas",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-015",
+    "nom": "Light & Ryuk",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-016",
+    "nom": "Natsu Lucy Grey",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-017",
+    "nom": "Sukuna",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-018",
+    "nom": "Gojo Satoru",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-019",
+    "nom": "Livaï Ackerman",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-020",
+    "nom": "Eren Yeager",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-021",
+    "nom": "Inosuke",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-022",
+    "nom": "Zenitsu",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-023",
+    "nom": "Tanjiro",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-024",
+    "nom": "Aki Hayakawa",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-025",
+    "nom": "Power",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-026",
+    "nom": "Denji",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-027",
+    "nom": "Minato",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-028",
+    "nom": "Sasuke",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-029",
+    "nom": "Naruto",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-030",
+    "nom": "Madara",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-031",
+    "nom": "Kuroro Lucifer",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-032",
+    "nom": "Hisoka",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-033",
+    "nom": "Gon",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-034",
+    "nom": "Kirua",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-035",
+    "nom": "Aizen Sosuke",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-036",
+    "nom": "Ichigo",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-037",
+    "nom": "Dio Brando",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-038",
+    "nom": "Jotaro Kujo",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-039",
+    "nom": "Bakugo",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-040",
+    "nom": "Shoto",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-041",
+    "nom": "Izuku",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-042",
+    "nom": "Trafalgar Law",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-043",
+    "nom": "Nico Robin",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-044",
+    "nom": "Nami",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-045",
+    "nom": "Luffy",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-046",
+    "nom": "Zoro",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-047",
+    "nom": "Asta",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-048",
+    "nom": "Karasuno",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-049",
+    "nom": "Vorpal Swords",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-050",
+    "nom": "Guts",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-051",
+    "nom": "Thorfinn",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-052",
+    "nom": "Yoichi Isagi",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-053",
+    "nom": "Saitama",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-054",
+    "nom": "Son Goku",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-055",
+    "nom": "Vegeta",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-056",
+    "nom": "Yami",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-057",
+    "nom": "Sho",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-058",
+    "nom": "Rengoku",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-059",
+    "nom": "Itachi",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-060",
+    "nom": "Escanor",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-061",
+    "nom": "All Might",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-062",
+    "nom": "Giorno",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-063",
+    "nom": "Limule",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-064",
+    "nom": "Mikey",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-065",
+    "nom": "Arale",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-066",
+    "nom": "Beerus",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-067",
+    "nom": "Kenshiro",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-068",
+    "nom": "Kakashi",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-069",
+    "nom": "Nezuko",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-070",
+    "nom": "Baki",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-071",
+    "nom": "Seiya",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-072",
+    "nom": "Toji",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-073",
+    "nom": "Goldorak",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-074",
+    "nom": "Black Goku",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  },
+  {
+    "id": "GEN1.5-075",
+    "nom": "Vegetto",
+    "image": "images/carte-vide.png",
+    "rarete": ""
+  }
+]

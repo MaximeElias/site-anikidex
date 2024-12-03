@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Anikidex - TCG Cards</title>
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <header>
+      <img src="images/logo.svg" alt="Aniki" class="logo" />
+    </header>
+
+    <div class="filters">
+      <input type="text" placeholder="Rechercher par nom, numéro, rareté..." />
+      <select>
+        <option value="numero">Trier par : Numéro</option>
+        <option value="rarity">Trier par : Rareté</option>
+        <option value="alphabetical">Trier par : Alphabetique</option>
+      </select>
+    </div>
+
+    <div class="card-container" id="card-container">
+      <!-- Les cartes seront chargées ici par JavaScript -->
+    </div>
+
+    <script src="scripts/script.js"></script>
+  </body>
+</html>
