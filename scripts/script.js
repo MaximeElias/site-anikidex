@@ -55,19 +55,21 @@ sortSelect.addEventListener("change", (event) => {
   const value = event.target.value; // Récupère la valeur du menu déroulant
   let sortedCards = [...allCards]; // Copie le tableau des cartes
 
-  if (value === "numero") {
-    sortedCards.sort((a, b) => a.id.localeCompare(b.id)); // Trie par ID croissant
-  } else if (value === "rarity") {
-    // Définir un ordre pour la rareté
-    const rarityOrder = { EX: 3, R: 2 };
-
-    sortedCards.sort((a, b) => {
-      const rarityA = rarityOrder[a.rarete] || 0; // Priorité de `a`
-      const rarityB = rarityOrder[b.rarete] || 0; // Priorité de `b`
-      return rarityB - rarityA; // Trie décroissant (EX > R)
-    });
-  } else if (value === "alphabetical") {
-    sortedCards.sort((a, b) => a.nom.localeCompare(b.nom)); // Trie par nom alphabétique
+  if (value === "0") {
+    // Filtrer pour ne garder que les cartes GEN0
+    sortedCards = sortedCards.filter((card) => card.id.startsWith("GEN0-"));
+  } else if (value === "1") {
+    // Filtrer pour ne garder que les cartes GEN1
+    sortedCards = sortedCards.filter((card) => card.id.startsWith("GEN1-"));
+  } else if (value === "2") {
+    // Filtrer pour ne garder que les cartes GEN2
+    sortedCards = sortedCards.filter((card) => card.id.startsWith("GEN2-"));
+  } else if (value === "all") {
+    // Afficher toutes les cartes triées par ordre alphabétique selon leur ID
+    sortedCards.sort((a, b) => a.id.localeCompare(b.id));
+  } else {
+    // Si aucune option valide, afficher toutes les cartes sans tri
+    sortedCards = [...allCards];
   }
 
   displayCards(sortedCards); // Actualise l'affichage des cartes
